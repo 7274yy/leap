@@ -1,0 +1,3 @@
+- [] devices documentation
+- [] make video
+- [] front page
